@@ -15,6 +15,7 @@ This is only required once.
 ```shell
 
 # Source all the routines
+sudo -s
 source android/build.sh
 
 # Install any dependencies needed
